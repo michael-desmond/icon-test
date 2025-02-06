@@ -6,6 +6,3 @@
   </picture>
   <h1 align="center">Bee Agent Framework</h1>
 </p>
-
-
-# icon-test
